@@ -1,0 +1,19 @@
+district,month,coverage,fund_utilization,fund_allocation
+Stable District,2024-01,85,90,100000
+Stable District,2024-02,86,91,100000
+Stable District,2024-03,85,90,100000
+High Variance District,2024-01,90,95,100000
+High Variance District,2024-02,75,80,100000
+High Variance District,2024-03,88,93,100000
+Declining District,2024-01,88,93,100000
+Declining District,2024-02,82,87,100000
+Declining District,2024-03,76,81,100000
+Improving District,2024-01,70,75,100000
+Improving District,2024-02,78,83,100000
+Improving District,2024-03,85,90,100000
+Erratic District,2024-01,85,90,100000
+Erratic District,2024-02,92,97,100000
+Erratic District,2024-03,78,83,100000
+Consistent District,2024-01,83,88,100000
+Consistent District,2024-02,84,89,100000
+Consistent District,2024-03,83,88,100000
