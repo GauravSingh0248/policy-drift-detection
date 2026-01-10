@@ -70,7 +70,7 @@ async def send_message(
         await messages_collection.insert_one(user_message_doc)
         
         context = await chatbot.retrieve_context(message, policy_id, db)
-        response_text = chatbot.generate_response(message, context)
+        response_text = await chatbot.generate_response(message, context)
         
         assistant_message_doc = {
             "session_id": ObjectId(session_id),
