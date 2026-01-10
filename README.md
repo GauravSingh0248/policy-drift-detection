@@ -60,7 +60,7 @@ This ensures:
 ---
 
 ## 🏗️ System Architecture Overview
-
+![PolicyLens Architecture](images/Architecture.png)
 PolicyLens follows a **modular, layered architecture**.
 
 ### Main Components
