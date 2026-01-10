@@ -1,7 +1,3 @@
-Below is a **clean, professional README.md** rewritten from your content, structured for **GitHub / hackathon / review panels**.
-You can copy-paste this directly as `README.md`.
-
----
 
 # 🏛️ PolicyLens
 
