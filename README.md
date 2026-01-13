@@ -213,7 +213,7 @@ PolicyLens is designed to scale:
 | Gaurav Singh    | NLP policy parser backend & Research |
 | Priyanshu Pant  | System architecture & backend APIs   |
 | Ritik Bhandari  | Frontened + Backend                  |
-| Member 4        | Frontend UI & RAG Implementation     |
+| Parth Verma     | Frontend UI & RAG Implementation     |
 
 Github Management - Gaurav Singh
 ---
