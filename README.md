@@ -2,6 +2,7 @@
 ![PolciyLens](images/basepage.png)
 
 Live On - https://policy-drift-frontend.vercel.app/
+
 ### NLP-Driven Detection of Policy–Implementation Drift
 
 **PolicyLens** is an evolution of our Round-1 project **“Automated Detection of Policy–Implementation Drift in Government Schemes.”**
@@ -214,7 +215,7 @@ PolicyLens is designed to scale:
 | Ritik Bhandari  | Frontened + Backend                  |
 | Member 4        | Frontend UI & RAG Implementation     |
 
-
+Github Management - Gaurav Singh
 ---
 
 ## 🚀 Running the Project (Summary)
